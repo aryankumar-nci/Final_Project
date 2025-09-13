@@ -1,0 +1,42 @@
+[
+    {
+        "algorithm": "BCO_PSO Hybrid",
+        "dataset": "data_1000_10.json",
+        "best_fitness": 897.1428571428543,
+        "execution_time": 38.9899,
+        "num_bacteria": 100,
+        "num_iterations": 50
+    },
+    {
+        "algorithm": "BCO_PSO Hybrid",
+        "dataset": "data_1000_10.json",
+        "best_fitness": 874.2857142857116,
+        "execution_time": 38.4701,
+        "num_bacteria": 100,
+        "num_iterations": 50
+    },
+    {
+        "algorithm": "BCO_PSO Hybrid",
+        "dataset": "data_1000_10.json",
+        "best_fitness": 908.5714285714256,
+        "execution_time": 38.6636,
+        "num_bacteria": 100,
+        "num_iterations": 50
+    },
+    {
+        "algorithm": "BCO_PSO Hybrid",
+        "dataset": "data_1000_10.json",
+        "best_fitness": 897.1428571428543,
+        "execution_time": 38.9703,
+        "num_bacteria": 100,
+        "num_iterations": 50
+    },
+    {
+        "algorithm": "BCO_PSO Hybrid",
+        "dataset": "data_1000_10.json",
+        "best_fitness": 879.9999999999973,
+        "execution_time": 38.9518,
+        "num_bacteria": 100,
+        "num_iterations": 50
+    }
+]
